@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/130746651?v=4" atl="..." height="150">
+
 # Mi nombre es Ayoze
 
 Estoy cursando 4Geeks
@@ -14,6 +16,6 @@ Estoy cursando 4Geeks
 
 > Hola esto se resalta
 
-<img src="https://cdn.pixabay.com/photo/2023/05/28/07/42/zebra-8023066_640.jpg" atl="..." height="150">
+
 
 ``<div class="container-fluid">``

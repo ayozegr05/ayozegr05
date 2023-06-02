@@ -2,13 +2,13 @@
 
 Estoy cursando 4Geeks
 
-# # Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 - Javascript
 
-[4Geeks] (http://www.google.com)
+[4Geeks](http://www.google.com)
 
 **negrita**
 

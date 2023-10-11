@@ -1,14 +1,19 @@
 <img src="https://avatars.githubusercontent.com/u/130746651?v=4" atl="..." height="150">
 
-# Mi nombre es Ayoze
+# Ayoze Gómez Rosa
 
-Estoy cursando 4Geeks
+Full Stack Developer
 
 ## Tecnologias
 
-- HTML
-- CSS
+- HTML5
+- CSS·
 - Javascript
+- Python
+- Flask
+- Flask SQLAlchemy
+- React Js
+- Data-modeling
 
 [4Geeks](http://www.google.com)
 

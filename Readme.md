@@ -5,7 +5,7 @@
 
  <h3>:bust_in_silhouette: About me:</h3>
 <p>
-    🌱 I’m currently learning
+    🚀 Full stack developer with a passion for problem solving and creating innovative web applications. Constantly looking for opportunities to expand my knowledge and experience in software development. Always ready to face new challenges and turn ideas into digital reality. Let's code together! 🌟
 </p>
 
 

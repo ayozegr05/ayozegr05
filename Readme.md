@@ -5,7 +5,7 @@
 
  <h3>:bust_in_silhouette: About me:</h3>
 
-    - 🌱 I’m currently learning **ZXCZXCZXCZXCZXCZX**
+    🌱 I’m currently learning
 
 
 

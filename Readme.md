@@ -8,7 +8,7 @@
 
    
 
-<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank"><img align="center" style="margin-bottom: 20px; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoze-gómez-rosa" height="30" width="40" /></a></h3>
+<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank"><img align="center" style="margin-bottom: 20px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoze-gómez-rosa" height="30" width="40" /></a></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Tenerife, Spain</h3>
 
 
-
+<h3><i class="fa-solid fa-user fa-2xl"></i> About me:</h3>
 
 - 🌱 I’m currently learning **ZXCZXCZXCZXCZXCZX**
 

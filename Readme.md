@@ -2,12 +2,12 @@
 <h3 align="center">A passionate full stack developer from Tenerife, Spain</h3>
 
 
-<div style="border-bottom: 1px solid grey; margin-bottom: 20px;">
-    <h2>:bust_in_silhouette: About me:</h2>
-    <p>
-        - 🌱 I’m currently learning **ZXCZXCZXCZXCZXCZX**
-    </p>
-</div>
+
+<h2>:bust_in_silhouette: About me:</h2>
+<p>
+    - 🌱 I’m currently learning **ZXCZXCZXCZXCZXCZX**
+</p>
+
 
    
 

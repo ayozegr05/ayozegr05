@@ -4,9 +4,9 @@
 
 
  <h3>:bust_in_silhouette: About me:</h3>
-<p>
+
     - 🌱 I’m currently learning **ZXCZXCZXCZXCZXCZX**
-</p>
+
 
 
    

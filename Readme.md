@@ -20,10 +20,13 @@
 - React Js
 - Python
 - Flask
-- - Flask SQLAlchemy
+- Flask SQLAlchemy
+- PostgreSQL
 - HTML5 
 - CSS3
-- Bootstrap 5 
+- Bootstrap 5
+- Jest
+- Git 
 - Data-modeling
   
 <p align="left">

@@ -4,9 +4,9 @@
 
 
  <h3>:bust_in_silhouette: About me:</h3>
-
-    -🌱 I’m currently learning
-
+<p>
+    🌱 I’m currently learning
+</p>
 
 
    

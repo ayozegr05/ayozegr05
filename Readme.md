@@ -10,7 +10,7 @@
 
 
    
-<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoze-gómez-rosa" height="30" width="40" style="margin-bottom: 10px;" /></a> </h3>
+<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoze-gómez-rosa" height="30" width="40" style="margin-bottom: 40px;" /></a> </h3>
 
 
 

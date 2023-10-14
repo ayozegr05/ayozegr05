@@ -11,11 +11,10 @@
 
 
    
-<h3 align="left">📫 Connect with me: <p align="left">
+<h3 align="left">📫 Connect with me:
   <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" style="width: 40px; height: 40px;">
   </a>
-</p>
 </h3>
 
 

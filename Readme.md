@@ -11,7 +11,7 @@
 
    
 
-<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=" height="30" width="40" style="margin-bottom: 10px/></a></h3>
+<h3 align="left">📫 Connect with me: </h3>
 
 
 

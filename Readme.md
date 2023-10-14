@@ -10,7 +10,8 @@
 
 
    
-<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank"><button>LINKEDIN</button></a> </h3>
+<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank">[![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/ayoze-gómez-rosa){: .btn .btn-blue }
+</a> </h3>
 
 
 

@@ -8,16 +8,14 @@
     🚀 Full stack developer with a passion for problem solving and creating innovative web applications. Constantly looking for opportunities to expand my knowledge and experience in software development. Always ready to face new challenges and turn ideas into digital reality. Let's code together! 🌟
 </p>
 
-<p align="left">
+
+
+   
+<h3 align="left">📫 Connect with me: <p align="left">
   <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" style="width: 40px; height: 40px;">
   </a>
 </p>
-
-   
-<h3 align="left">📫 Connect with me: <a href="https://linkedin.com/in/ayoze-gómez-rosa" target="blank">
-   <button style="background-color: blue; color: white; font-weight: bold; padding: 5px 10px; border: none; border-radius: 4px;">Linkedin</button>
-</a>
 </h3>
 
 

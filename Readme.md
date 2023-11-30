@@ -40,8 +40,8 @@
 - Git 
 - Data-modeling
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayozegr05&" alt="ayozegr05" /></p>
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayozegr05&show_icons=true&locale=en" alt="ayozegr05" /></p>  
+
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
     alt="javascript" width="40" height="40"/> </a> 

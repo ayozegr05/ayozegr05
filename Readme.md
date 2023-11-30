@@ -40,7 +40,7 @@
 - Git 
 - Data-modeling
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayozegr05&show_icons=true&locale=en" alt="ayozegr05" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayozegr05&show_icons=true&locale=en&layout=compact" alt="ayozegr05" /></p>
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
